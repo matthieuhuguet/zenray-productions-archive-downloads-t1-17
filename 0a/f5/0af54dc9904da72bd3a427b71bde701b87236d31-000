@@ -1,0 +1,19 @@
+﻿if undeclared error check : #include,Property,Fichiers
+"int calls = 4;printf(""calls is %i\n"", calls);",calls is 4,
+header file,,
+library file,,
+5394.5it's int so 4,calls = 4truncation,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2059.png
+"Input & Printingint calls = get_int(""Call: "");",,
+comma (symbol),",",
+ctrl + alt + c,copy row text,
+,Better way DRY : don't repeat yourself.Sign is generally before the = sign.,"PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2060.png, PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2061.png"
+65105,calls = 5,
+char country_code = 65;= Abecause program treat it as a single character.,,
+,2^6 + 1= 65,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2062.png
+,We create an integer named country_code that gets the value 65.,
+data types,,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2063.png
+,toute valeur élevée à la puissance zéro est égale à 1,
+,"We assign to the country_code variable the value 65, which is an integer",PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2064.png
+,"type, name, assignment operator, valueint calls = 3;",PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2065.png
+variable definition,,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2066.png
+what is a variable,name that contains dataa containera group,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2067.png
