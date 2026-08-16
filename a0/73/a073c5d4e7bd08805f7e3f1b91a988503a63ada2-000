@@ -1,0 +1,10 @@
+# Duppliquer les Bones Spline, Creer un spline Handle IK, récupérer la curve, la duppliquer pour créer un loft, unparent, les joint et UV pin les joints au loft
+
+![image.png](Duppliquer%20les%20Bones%20Spline,%20Creer%20un%20spline%20Handl/image.png)
+
+- **Dupliquer les Bones Spline** pour créer une copie du setup initial.
+- **Créer un Spline Handle IK** pour animer les joints le long d'une curve.
+- **Récupérer la Curve** générée par le Spline IK.
+- **Dupliquer cette Curve** pour créer un **Loft**.
+- **Déparent les joints et le loft** pour les séparer dans la hiérarchie.
+- **Appliquer le UV Pin** afin de fixer les UVs des joints sur le loft, garantissant une déformation cohérente des textures en fonction des mouvements des joints.
