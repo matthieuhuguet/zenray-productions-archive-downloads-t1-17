@@ -1,0 +1,3 @@
+# Application d'une map displacement puis decimation.Retravail de la decimation, pour obtenir les pixels, cependant je pense qu'on peut bypass cette étape grâce aux Nanite tesselation, à tester.
+
+Fichiers: ../image%2082.png
