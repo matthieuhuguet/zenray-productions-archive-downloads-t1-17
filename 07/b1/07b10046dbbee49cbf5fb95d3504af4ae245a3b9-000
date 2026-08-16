@@ -1,0 +1,4 @@
+# Untitled
+
+Loops: void meow(void)la fonction n'a pas de types de donnéesvoid meow(void)Cela spécifie que la fonction meow ne prend aucun argument ou paramètre lorsqu'elle est appelée.
+: En utilisant void dans la déclaration de fonction void meow(void), cela indique que la fonction meow ne retourne pas de valeur et n'attend pas de données en entrée. C'est idéal lorsque vous avez une fonction qui exécute une tâche spécifique sans besoin de résultats ou d'arguments. Cela simplifie la structure du code et permet de définir des fonctions pour des actions simples mais importantes.
