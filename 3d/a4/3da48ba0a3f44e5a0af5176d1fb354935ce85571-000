@@ -1,0 +1,4 @@
+# Untitled
+
+: https://www.bing.com/ck/a?!&&p=353161d3c401578aJmltdHM9MTcxMzkxNjgwMCZpZ3VpZD0wZDNlZmUxNC03NjQ3LTY0MjMtMjczYS1lZDNkNzcwMDY1NzcmaW5zaWQ9NTQ1Nw&ptn=3&ver=2&hsh=3&fclid=0d3efe14-7647-6423-273a-ed3d77006577&psq=dynamic+precision+specifier&u=a1aHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvOTYyNzA3NS9keW5hbWljLWZsb2F0LWZvcm1hdC1zcGVjaWZpZXItaW4tYw&ntb=1The format specifier .precision
+ 1: %.*fint dynamicFloat = 2;printf("%.*f\n", dynamicFloat, z);
