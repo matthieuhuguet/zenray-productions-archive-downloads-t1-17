@@ -1,0 +1,20 @@
+# Video To Screenshots 30 Seconde
+
+Created: June 5, 2025 11:23 AM
+Update: June 5, 2025 11:24 AM
+
+Voici ta commande FFmpeg modifiée pour **extraire une image toutes les 30 secondes** au lieu de toutes les 5 minutes :
+
+```bash
+ffmpeg -i "I:\I_Download\My_Oni_Girl\My_Oni_Girl.mkv" -vf "fps=1/30,scale=-1:900" -q:v 2 "I:\I_Download\My_Oni_Girl\JPG\IMG_%03d.jpg"
+
+```
+
+---
+
+### 📌 Modifications :
+
+- `fps=1/30` → 1 image toutes les **30 secondes**
+- `scale=-1:900` → hauteur fixée à **900 pixels**, largeur proportionnelle
+- `q:v 2` → qualité JPEG élevée
+- `IMG_%03d.jpg` → noms d’images : `IMG_001.jpg`, `IMG_002.jpg`, …
