@@ -1,0 +1,28 @@
+# Unreal Best Practice fix up redirectors
+Utilise Collapsed Plutôt que Hidden
+
+Sur Unreal pour supprimer un dossier qui ne veut pas se supprimer il suffit de fermer le projet, fix up redirectors, supprimer les anciennes références puis supprimer le dossier.
+
+![image.png](Unreal%20Best%20Practice%20fix%20up%20redirectors%20Utilise%20Co/image.png)
+
+Faire en sorte que l’UI est toujours affiché
+
+Il faut rajouter une condition, OnActorBeginOverlap ça calcule chaque frame si le joueur est aligné avec sa cible si oui ça affiche l’UI et l’interaction est possible.
+
+![image.png](Unreal%20Best%20Practice%20fix%20up%20redirectors%20Utilise%20Co/image%201.png)
+
+Problème de design.
+
+Donc le dot product multiplie x par x et ainsi de suite puis additionne les résultats
+
+| 2 | 3 | 4 |
+| --- | --- | --- |
+| 5 | 1 | 5 |
+
+== 33
+
+- **Dot Product = 1** : Parfaitement aligné.
+- **Dot Product = 0** : Perpendiculaire.
+- **Dot Product = -1** : Opposé.
+
+Si la distance est inférieur à 200 et que le joueur est aligné avec le NPC alors affiche l’UI.
