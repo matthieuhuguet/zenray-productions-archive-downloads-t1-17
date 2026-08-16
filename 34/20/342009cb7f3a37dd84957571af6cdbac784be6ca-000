@@ -1,0 +1,23 @@
+﻿Titre,Property,Data Types,Fichiers
+,,creating a variable,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2036.png
+,,initalization,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2034.png
+,,declarationassignement,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2035.png
+,(not build in C),bool,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2039.png
+,,string,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2038.png
+,,structstypedefs,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2037.png
+,"• Data Type: The course discusses the ‘float’ data type in programming.
+• Usage: ‘Float’ is used for variables that will store floating-point values, also known as real numbers.
+• Memory: Floating points values always take up 4 bytes of memory (32 bits).
+• Precision: The precision of a float is limited due to its 32-bit structure. Some of these bits might be used for an integer part, limiting how precise we can be.",float,
+,,double,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/saved_compressed_image%202.jpg
+,,void,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%2040.png
+,". char
+• The char data type is used for variables that will store single characters.
+• Characters always take up 1 byte of memory (8 bits). This means the range of values they can store is necessarily limited to 8 bits worth of information.
+• Thanks to ASCII, we've developed a mapping of characters like A, B, C, etc ... to numeric values in the positive side of this range.ex : 65 = A.",char,
+,,short,
+,,,
+,,const,
+,". unsigned intonly positive + values.. unsigned is a qualifier that can be applied to certain types (including int), which effectively doubles the positive range of variables of that type, at the cost of disallowing any negative values.. You'll occasionally have use for unsigned variables in CS50.",unsigned int,
+,,long,
+,. int. The int data type is used for variables that will storeintegers.. Integers always take up 4 bytes of memory (32 bits). This means the range of values they can store is necessarily limited to 32 bits worth of information.range : [-2^31;2^31],int,
