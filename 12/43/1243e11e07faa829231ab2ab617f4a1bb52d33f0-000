@@ -1,0 +1,4 @@
+# Output
+
+Description: Serves as a termination point for graphs, without performing any processing on its input. It has a single input slot that adapts to color or grayscale, and uses attributes to help organize assets rather than parameters.
+Fichiers: ../image%2092.png
