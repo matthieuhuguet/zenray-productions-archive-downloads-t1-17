@@ -1,0 +1,4 @@
+# string = n+1 byten = typing character
+
+\0: hi!4 bytes'h', 'i', and '!', plus an additional byte for the null terminator ('\0'). So, "hi!" would be 4 bytes in total.
+Fichiers: ../image%2069.png
