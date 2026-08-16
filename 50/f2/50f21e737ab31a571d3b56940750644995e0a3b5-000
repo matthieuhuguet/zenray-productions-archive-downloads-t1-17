@@ -1,0 +1,4 @@
+# Untitled
+
+Arrays: Command Line for compiling code
+: clang -o hello hello.cclang hello.c -o hello
