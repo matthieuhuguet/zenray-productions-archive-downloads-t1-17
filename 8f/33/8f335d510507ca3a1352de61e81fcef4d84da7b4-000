@@ -1,0 +1,4 @@
+# Untitled
+
+Tableau récapitulatif du C: %s
+: le %s est un espace réservé qui indique à printf d’attendre un argument de type chaîne de caractères. Lorsque vous utilisez %s, vous devez fournir une valeur de chaîne de caractères en argument, après la virgule. Cette valeur remplacera le %s dans le résultat affiché.
