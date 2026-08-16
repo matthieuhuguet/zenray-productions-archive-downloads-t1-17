@@ -1,0 +1,9 @@
+# Visible if conditions
+
+Created: April 4, 2025 3:23 PM
+
+input[”mask_input”]==3
+
+[Visible if: control visibility of inputs, outputs and parameters | Substance 3D Designer](https://helpx.adobe.com/substance-3d-designer/substance-compositing-graphs/exposing-a-parameter/visible-if-control-visibility-of-inputs-outputs-and-parameters.html?linkId=100000257051951)
+
+![image.png](Visible%20if%20conditions/image.png)
