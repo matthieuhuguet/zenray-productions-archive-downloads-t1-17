@@ -1,0 +1,19 @@
+# What nodes to use
+
+Updated: April 4, 2025 3:23 PM
+
+![image.png](What%20nodes%20to%20use/image.png)
+
+| **Catégorie** | **Nodes Utiles** |
+| --- | --- |
+| **Large Forms** | - Shape Node
+- Tile Sampler |
+| **Layers** | - Flood Fill
+- Directional Warps
+- Bevels
+- Masking |
+| **Cracks** | - Tile Sampler
+- Distance
+- Flood Fills |
+| **Albedo** | - Gradient Maps
+- RT Shadows |
