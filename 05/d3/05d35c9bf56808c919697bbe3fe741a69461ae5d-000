@@ -1,0 +1,58 @@
+# Template GDD
+
+# Untitled Project GDD
+
+version 1.0.0 
+
+2025-MM-DD
+
+![untitled_4_jpg.jpg](Template%20GDD/untitled_4_jpg.jpg)
+
+# Table of Contents
+
+1. **Game Overview**
+    1. Mission
+    2. Game Concept
+    3. Structure Core Pillars
+    4. Genre
+    5. Target Audience
+    6. Hardware Platforms
+    7. Unique Selling Proposition
+    8. Intention and Philosophy
+    9. Estimated Playtime
+2. **Gameplay and Mechanics**
+    1. 3C, Camera, Character, and Controls
+    2. Mechanics and Systems (Overview)
+    3. Game Flow
+    4. Gameplay Loops
+    5. Balancing
+    6. Victory Conditions
+    7. Gameplay References
+3. **Story, Setting, and Character**
+    1. Pitch
+    2. World and Lore
+    3. Characters
+4. **Game Art Direction**
+    1. Look Dev : Color, Materials & Lighting
+    2. Reference Moodboard
+5. **Level Design And Level Art**
+    1. Pacing
+    2. Blockout
+    3. Environnements
+6. **Audio**
+    1. Adaptive Music & Transitions
+    2. Background Music (BGM)
+    3. Sound Effects (SFX)
+7. **Progression and Economy**
+    1. Objective Challenge Reward
+8. **Unreal Engine 5 Implementation**
+    1. Project Architecture  Blueprints 
+    2. Blueprints
+    3. Procedural Generation (PCG/Houdini)
+9. **Production, Prototype Scope, KPI**
+    1. Prototype Scope Calendar
+    2. Playtests and QA
+    3. KPI
+10. **Definition of Done**
+    1. Vertical Slice
+    2. Release
