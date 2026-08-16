@@ -1,0 +1,4 @@
+# Untitled
+
+: const int n = 5;
+ 1: const permet aux programmeurs de définir des valeurs qui sont censées rester constantes tout au long de l'exécution du programme.
