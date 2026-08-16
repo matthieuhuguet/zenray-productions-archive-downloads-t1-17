@@ -1,0 +1,10 @@
+﻿Name,Assign
+Splash Screen,
+Dialogue System,
+EventDispatched AttackClicked,
+"BattleManager / GameMode / Define PlayerSpecies ",
+Mécanique de déplacement,
+TallGrass system,
+Bien Ranger le Code notamment blueprint et centraliser ce qui peut l’être hormis DataBase évolutive.,
+BattleManager Révision du code,
+DataBase CSV Directement Dans Unreal Let’s Gong,
