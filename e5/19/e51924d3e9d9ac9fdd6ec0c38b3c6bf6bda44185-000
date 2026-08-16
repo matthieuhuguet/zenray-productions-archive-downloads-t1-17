@@ -1,0 +1,8 @@
+# Untitled
+
+Recursion of algorithm: Epic Naming and Code Convention 
+• All code and comments should use U.S. English spelling and grammar.
+• The first letter of each word in a name (such as type name or variable name) is capitalized, and there is usually no underscore between words. For example, Health and UPrimitiveComponent are correct, but not lastMouseCoordinates or delta_coordinates.
+• Type names are prefixed with an additional upper-case letter to distinguish them from variable names. For example, FSkin is a type name, and Skin is an instance of a FSkin.
+: https://dev.epicgames.com/documentation/en-us/unreal-engine/epic-cplusplus-coding-standard-for-unreal-engine?application_version=5.0Example
+Fichiers: ../image%2029.png
