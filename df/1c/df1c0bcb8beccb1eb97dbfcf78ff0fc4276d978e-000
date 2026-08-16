@@ -1,0 +1,86 @@
+# 3D Blockout
+
+Created: June 17, 2025 1:34 PM
+
+convention de nommage pour maya
+
+| Préfix | Type d'Objet Maya | Rôle / Destination | Exemple de Nom |
+| --- | --- | --- | --- |
+| SM_ | Mesh Polygonal | Static Mesh. Asset statique destiné à être exporté. | SM_MaisonA_Mur_01 |
+| SK_ | Mesh Polygonal | Skeletal Mesh. Asset destiné à être skinné et animé. | SK_Personnage_Tete |
+| GRP_ | Groupe (Transform vide) | Group. Nœud d'organisation dans l'Outliner. Ne contient pas de géométrie lui-même. | GRP_Batiments, GRP_Rig_Personnage |
+| JNT_ | Joint | Joint. Os d'un squelette, pour le skinning. | JNT_Arm_L_Elbow |
+| CTRL_ | Courbe NURBS | Control. Contrôleur de Rig, manipulé par l'animateur. | CTRL_Foot_L_IK |
+| CRV_ | Courbe NURBS | Curve. Courbe non-interactive (guide, chemin d'anim, etc.). | CRV_CameraPath_Plan02 |
+| UCX_ | Mesh Polygonal | Unreal Collision Box. Collision simple (mesh convexe). | UCX_Table_01 |
+| LGT_ | Lumière | Light. Source lumineuse dans la scène. | LGT_KeyLight_Personnage |
+
+Ctrl Shift + X = Multicut Tool 
+
+TOUJOURS UTILISER INCREMENTAL SAVE POUR EVITER CRASH
+
+Dupliquer objet along curve (méthode aussi avec attach to motion path)
+
+prendre objet : mettre en 0 0 0 freeze
+
+Mash network
+
+Add Curve click milieu
+
+Finally :
+
+![image.png](3D%20Blockout/image.png)
+
+![image.png](3D%20Blockout/image%201.png)
+
+Step = 1
+
+Initial State
+
+Mash
+
+Curve et orienter avant ou transform
+
+![image.png](3D%20Blockout/image%202.png)
+
+![image.png](3D%20Blockout/image%203.png)
+
+![image.png](../../../branding_social_media%20(1)/Blockout/image.png)
+
+![image.png](3D%20Blockout/image%204.png)
+
+Wip
+
+![image.png](3D%20Blockout/image%205.png)
+
+Wip
+
+2 phi ? = 3.236
+
+144 inch = 
+
+12 feet
+
+Maison dois avoir des fondations pour l’arrivée d’eau
+
+Automatisation via create svg d’un clean
+
+![image.png](3D%20Blockout/image%206.png)
+
+Directly on maya
+
+![image.png](3D%20Blockout/image%207.png)
+
+![Floor_All.svg](3D%20Blockout/Floor_All.svg)
+
+SVG to curves
+
+![image.png](3D%20Blockout/image%208.png)
+
+Live Shapes illustrator petit losange +/-
+
+![image.png](3D%20Blockout/image%209.png)
+
+Start with floor plans
+
+![image.png](3D%20Blockout/image%2010.png)
