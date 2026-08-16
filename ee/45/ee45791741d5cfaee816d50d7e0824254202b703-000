@@ -1,0 +1,13 @@
+# Exporting Houdini Mesh to FBX
+
+Created: September 24, 2024 3:56 PM
+
+![image.png](Exporting%20Houdini%20Mesh%20to%20FBX/image.png)
+
+Don’t forget to convert Heightfield or other volume to polygons
+
+PolyReduce and check the size with MMB
+
+Rename the last node before ROP FBX Output
+
+In Output file : write the extension file : H:/CreativeProcess/MayaLearning/SlayWorkflow1_MayaBlockout/scenes/assets/Slay_ENV_MountainHoudini_v001.fbx
