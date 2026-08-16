@@ -1,0 +1,72 @@
+# Modeling Church Louisiana Post 2026-04-28
+
+A small wooden church, modeled in Houdini. Style from Red Dead Redemption II.
+
+Built around the idea of Components that holds logic.
+
+Six components: Armature, WoodFacade, Roof, Window_A, Window_B, Pillars.
+
+Each one has its own exposed parameters: arch angle, plank count, tile size,
+
+shutter angle, pane count, pillar spacing. The whole thing is reusable on
+
+the next building. The Roof will have a special breakdown later.
+
+Full breakdown on the site: https://zenray.vercel.app/reels/louisiana-bayou-church
+
+Available for UE5 environment and technical art work.
+
+**#Houdini** **#UE5** **#GameArt**
+
+## **📱 Posts réseaux (en chat, pas en `.md`)**
+
+### **Twitter / Arstation (4 photos : `01_hero_front`, `04_Component_Armature`, `08_Component_Window_B`, `06_Component_Roof`)**
+
+`Small wooden church, modeled in Houdini. Style from Red Dead Redemption II.The point is not the church. The point is the system underneath.Six components, each with its own exposed parameters. Reusable on the next building.Full breakdown: https://zenray.vercel.app/reels/louisiana-bayou-church`
+
+### **LinkedIn**
+
+`A small wooden church, modeled in Houdini. Style from Red Dead Redemption II.Six components: Armature, WoodFacade, Roof, Window_A, Window_B, Pillars.Each one has its own exposed parameters: arch angle, plank count, tile size,shutter angle, pane count, pillar spacing. The whole thing is reusable onthe next building.Modeling is around 80%. Assembly logic still deserves another pass beforetexturing.Full breakdown on the site: https://zenray.vercel.app/reels/louisiana-bayou-churchAvailable for UE5 environment and technical art work.#Houdini #UE5 #GameArt`
+
+### **Instagram (carousel `01`, `04`, `06`, `08`, `09`)**
+
+`Small wooden church.Houdini, six modular components.Style from Red Dead Redemption II.`
+
+### **TikTok**
+
+`Houdini church, six modular components. RDR2 style.`
+
+<aside>
+💡
+
+Here is my latest modeling for environment I have been refactoring a lot my components because everything was broken and I was aiming for a more modular / procedural approach.
+
+Below you can watch component 
+I think I can refactor again the modeling especially in the 
+
+</aside>
+
+Nouveau feedback : utilise un style avec cette data (ichiban japan style) simplement traduis en anglais: La poterie Tamba-yaki, juste à côté d’Osaka.
+
+La ville de Tamba Sasayama est réputée dans tout le Japon pour sa céramique millénaire : la poterie Tamba-yaki. Dans les montagnes, on trouve le hameau de Tachikui, berceau historique de cette production qui constitue l’un des 6 anciens fours du Japon.
+
+Née il y a environ 800 ans, la céramique Tamba-yaki se distingue par une esthétique sobre et fonctionnelle, produisant beaucoup de vaisselle du quotidien.
+
+Le village est assez petit, mais on y trouve plusieurs points d’intérêt pour les amateurs de céramique japonaise, avec un musée de la céramique ainsi que des ateliers, boutiques et cafés spécialisés.
+
+:instruction : phrase courte simple allant à l'essentiel pas de fioritures. l'essentiel simplement traduis en anglais.
+
+Déjà note ça dans le post attention plein d’instruction pour toi à interprêter soit hyper intelligent Voici une petite église que j'ai modélisé le style est inspiré de red dead redemption II. Réutilisable pour de futurs modélisations c'est surtout la logique des systèmes en composants qui est importantes. les battants des volets sont ajustables l'angle de l'arche en dessous de la croix. le nombre de planches, le nombre de volets sur les fenetres les tuiles ont de nombreux paramètres Ensuite je te donne le graph complet de chaque composants que tu décris dans un article premium sur mon site : /Users/zenray/Create/Build/Productions/ZenRayWebsite et tu publies sur vercel une fois l’article traité n'oublie pas ce workflow note tous les feedbacks note vraiment tout bannis ZenRayProductions et ZenRay dans les Hashtags. et note les feedbacks car ça fait bizarre et ensuite fais en sorte 
+
+Note le maximum de choses intéressantes 
+Va sur le site duplique le dernier article et sa forme (font + présentation + logique) et ajoute les 4 images.
+Les reste sera du texte ou des graphs. 
+Voici toutes les images à intégrer dans l’article avec les composants à traiter: '/Users/zenray/Create/Media/Screenshots/Screenshot 2026-04-28 at 18.46.55.png' '/Users/zenray/Create/Media/Screenshots/Screenshot 2026-04-28 at 18.48.19.png' '/Users/zenray/Create/Media/Screenshots/Screenshot 2026-04-28 at 18.48.31.png' '/Users/zenray/Create/Media/Screenshots/Screenshot 2026-04-28 at 18.49.30.png' '/Users/zenray/Create/Media/Screenshots/Screenshot 2026-04-28 at 18.50.19.png' '/Users/zenray/Create/Media/Screenshots/Screenshot 2026-04-28 at 18.53.00.png' '/Users/zenray/Create/Media/Screenshots/Screenshot 2026-04-28 at 18.53.22.png' '/Users/zenray/Create/Media/Screenshots/Screenshot 2026-04-28 at 18.53.42.png' '/Users/zenray/Create/Media/Screenshots/Screenshot 2026-04-28 at 18.54.18.png' '/Users/zenray/Create/Media/Screenshots/Screenshot 2026-04-28 at 18.54.46.png' '/Users/zenray/Create/Media/Screenshots/Screenshot 2026-04-28 at 18.55.14.png’
+
+Donc analyse les images pour les mettre au bon endroits dans l’article sur le site optimise la taille.
+
+Avec toute cette data refait proprement 
+
+Tu notes tout dans le fichier tracker comme ça la prochaine fois je click sur un bouton tu génères le templates et on construit l’article hyper vite donc note tout ne soit pas fénéant soit pro actif.
+
+Penses à tout ce à quoi je n’aurai pas pensé.
