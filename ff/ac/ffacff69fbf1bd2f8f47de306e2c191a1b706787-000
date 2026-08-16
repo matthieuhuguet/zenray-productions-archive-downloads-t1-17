@@ -1,0 +1,5 @@
+# Untitled
+
+1: • Une variable de 32 bits peut stocker jusqu'à 2^32 valeurs différentes.
+• En termes de nombres, cela signifie qu'elle peut stocker des nombres allant de -2^31 à 2^31 ((2^32)/2) pour un entier signé (c'est-à-dire positif ou négatif).
+Fichiers: ../image%20129.png
