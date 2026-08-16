@@ -1,0 +1,7 @@
+# Untitled
+
+Data Types: float
+: • Data Type: The course discusses the ‘float’ data type in programming.
+• Usage: ‘Float’ is used for variables that will store floating-point values, also known as real numbers.
+• Memory: Floating points values always take up 4 bytes of memory (32 bits).
+• Precision: The precision of a float is limited due to its 32-bit structure. Some of these bits might be used for an integer part, limiting how precise we can be.
