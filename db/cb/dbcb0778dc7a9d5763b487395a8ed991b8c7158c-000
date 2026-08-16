@@ -1,0 +1,4 @@
+# Untitled
+
+: examples
+ 1: For example, 3.75 is a floating-point number with an integer part (3) and a fractional part (0.75).For example, if you truncate 3.75, you'll get 3.Rounding towards Zero: Truncation always rounds towards zerotruncating -3.75 will result in -3.
