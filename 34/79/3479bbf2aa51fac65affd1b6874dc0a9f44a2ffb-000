@@ -1,0 +1,3 @@
+# Flood Fill to Gradient
+
+: Takes the regions created by a Flood Fill operation and applies a gradient within those regions. This allows for sophisticated patterns and variations within a texture, by assigning different colors or effects to different parts of the image.
