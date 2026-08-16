@@ -1,0 +1,9 @@
+﻿Operators,Property,Fichiers
+EqualityInequality,,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%20130.png
+Logical NOTif x = true!x = false,,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%20131.png
+OR ||,,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%20132.png
+ANDx && y,,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%20133.png
+Boolean Expression,,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%20134.png
+"x *= 5;x = x * 5;x *= 5 ; signifie ""multiplier la valeur actuelle de x par 5 et stocker le résultat dans x"".",,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%20135.png
+Modulo operatorgive us the remainder,"combien de fois 4 entre dans 13, et quel reste reste-t-il ? 13 % 4 = 1l'opérateur modulo (%) est conçu pour être utilisé uniquement avec des nombres entiers.",
+Arithmetic Operations,,PORTFOLIO%20PART%20V%202024%20Houdini%203D%20&%20Code%20Tech%20Lesso/image%20136.png
