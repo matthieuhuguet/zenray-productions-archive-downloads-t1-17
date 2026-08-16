@@ -1,0 +1,8 @@
+# For Metallic Map there is no transition it’s either black or white Metallic or Non Metallic
+
+Created: April 4, 2025 3:23 PM
+
+- **Black (0)**: Non-metallic (dielectric material, e.g., wood, plastic, glass, fabric).
+- **White (1)**: Metallic (conductor, e.g., gold, iron, aluminum).
+
+![image.png](For%20Metallic%20Map%20there%20is%20no%20transition%20it%E2%80%99s%20eithe/image.png)
