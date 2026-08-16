@@ -1,0 +1,6 @@
+# Untitled
+
+Recursion of algorithm: return 0 est utilisé pour arrêter le programme avec un succès sans effectuer les calculs restants.
+: return 0 est utilisé pour indiquer une sortie réussie du programme, mais il ne sert pas à arrêter une boucle spécifiquement. Pour arrêter une boucle, utilisez l'instruction break.
+• return 0 arrête l'exécution du programme entier à partir du point où il est rencontré.
+• break arrête l'exécution de la boucle courante et continue l'exécution à la première instruction après la boucle.
