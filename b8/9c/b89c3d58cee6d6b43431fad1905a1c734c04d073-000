@@ -1,0 +1,18 @@
+# imagemagick
+
+Created: January 20, 2025 1:07 PM
+Update: January 20, 2025 1:30 PM
+
+```bash
+magick -density 24576 "C:\Users\matth\Downloads\py.svg" "C:\Users\matth\Downloads\py.png"
+```
+
+convert svg to png et density returns pixels writting.
+
+always test 300 density first
+
+magick -density 24576 "C:\Users\matth\Downloads\Notion-logo.svg” "C:\Users\matth\Downloads\Notion-logo.png”
+
+```bash
+magick -density 983 "C:\Users\matth\Downloads\Notion-logo.svg" "C:\Users\matth\Downloads\Notion-logo.png" 
+```
