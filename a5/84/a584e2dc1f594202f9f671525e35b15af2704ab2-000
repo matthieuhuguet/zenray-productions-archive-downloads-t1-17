@@ -1,0 +1,10 @@
+﻿Name,Assign,Date,Status
+Splash Screen,,"May 19, 2025",Not started
+Dialogue System,,"May 19, 2025",Not started
+Mécanique de déplacement,,,Done
+TallGrass system,,,Done
+DataBase CSV Directement Dans Unreal Let’s Gong,,,Done
+EventDispatched AttackClicked,,,Not started
+Bien Ranger le Code notamment blueprint et centraliser ce qui peut l’être hormis DataBase évolutive.,,,Done
+BattleManager Révision du code,,,Done
+"BattleManager / GameMode / Define PlayerSpecies ",,,In progress
