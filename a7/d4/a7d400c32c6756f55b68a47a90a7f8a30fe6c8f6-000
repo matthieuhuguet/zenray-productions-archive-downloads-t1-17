@@ -1,0 +1,4 @@
+# Untitled
+
+Data Types: unsigned int
+: . unsigned intonly positive + values.. unsigned is a qualifier that can be applied to certain types (including int), which effectively doubles the positive range of variables of that type, at the cost of disallowing any negative values.. You'll occasionally have use for unsigned variables in CS50.
